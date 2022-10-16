@@ -4,7 +4,11 @@
 *.log
 *.pdf
 *.psd
+<<<<<<< HEAD
 # *.sublime*
+=======
+*.sublime*
+>>>>>>> 29b227e494b3ada3dc988030bce3ef389752f342
 build/
 node_modules/
 npm-debug.log*
